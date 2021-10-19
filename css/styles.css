@@ -1,0 +1,12 @@
+body{background-color: #FCD2D1;}
+hr{background-color: none;
+border-style: dotted none none;
+height: 0px;
+width: 5%;
+border-color: red;
+border-width: 5px;
+}
+h1{color: red;}
+h2{color: red;}
+h3{color: red;}
+h4{color: red;}
